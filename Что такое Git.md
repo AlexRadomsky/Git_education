@@ -4,3 +4,8 @@
 Среди проектов, использующих Git — ядро Linux, Swift, Android, Drupal, Cairo, GNU Core Utilities, Mesa, Wine, Chromium, Compiz Fusion, FlightGear, jQuery, PHP, NASM, MediaWiki, DokuWiki, Qt, ряд дистрибутивов Linux.
 
 Программа является свободной и выпущена под лицензией GNU GPL версии 2. По умолчанию используется TCP порт 9418.
+
+## Графические интерфейсы
+Разработано множество графических интерфейсов для системы, среди них — **GitKraken** (кроссплатформенный условно бесплатный клиент Git), **SmartGit** (кроссплатформенный интерфейс на Java), **gitk** (простая и быстрая программа, написана на Tcl/Tk, распространяемая с самим Git), **Giggle** (вариант на Gtk+), **TortoiseGit** (интерфейс, реализованный как расширение для проводника Windows), **SourceTree** (бесплатный Git-клиент для Windows и Mac), **Github-клиент** и ряд других.
+
+Кроме того, разработано множество веб-фронтендов, в числе которых - **GitWebAdmin, GitLab, Gitblit, Gerrit, Gitweb, Kallithea, Gitea**.
